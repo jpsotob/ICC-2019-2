@@ -6,6 +6,7 @@ Se utilizarán varias herramientas y se meterán a los usuarios para modificar e
 
 [![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
 
+En python la manera de asignar una variables es asi:
 
 ```python
 s = "Python syntax highlighting"
